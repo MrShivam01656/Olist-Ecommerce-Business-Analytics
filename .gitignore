@@ -27,3 +27,6 @@ Thumbs.db
 
 # Raw dataset files
 Data/Raw/*.csv
+
+# SQLite database
+SQL/*.db
