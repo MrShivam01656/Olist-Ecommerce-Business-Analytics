@@ -53,8 +53,11 @@ Olist-Ecommerce-Business-Analytics/
 
 ## Power BI Dashboard
 
-### Executive Overview
-![Power BI Executive Overview](Images/dashboard_overview.png)
-
 ### Customer & Delivery Insights
-![Power BI Customer and Delivery Insights](Images/dashboard_customer_delivery.png)
+![Power BI Customer and Delivery Insights](./Images/dashboard_customer_delivery.png)
+
+### Executive Overview
+![Power BI Executive Overview](./Images/dashboard_overview.png)
+
+
+
