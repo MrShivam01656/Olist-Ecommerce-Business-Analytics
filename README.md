@@ -50,3 +50,11 @@ Olist-Ecommerce-Business-Analytics/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+## Power BI Dashboard
+
+### Executive Overview
+![Power BI Executive Overview](Images/dashboard_overview.png)
+
+### Customer & Delivery Insights
+![Power BI Customer and Delivery Insights](Images/dashboard_customer_delivery.png)
