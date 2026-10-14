@@ -51,13 +51,9 @@ Olist-Ecommerce-Business-Analytics/
 ├── requirements.txt
 └── .gitignore
 
-## Power BI Dashboard
-
-### Customer & Delivery Insights
-![Power BI Customer and Delivery Insights](./Images/dashboard_customer_delivery.png)
-
-### Executive Overview
 ![Power BI Executive Overview](./Images/dashboard_overview.png)
+
+![Customer & Delivery Insights](./Images/dashboard_customer_delivery.png)
 
 
 
